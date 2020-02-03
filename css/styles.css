@@ -1,0 +1,110 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family:  'Quicksand', sans-serif;
+  font-size: 125%;
+}
+
+h1{
+  font-family: 'Oswald';
+  font-size: 500%;
+  text-align: center;
+  margin: 0 auto 0 auto;
+}
+
+h2{
+  font-size: 250%;
+}
+
+h3{
+  margin-bottom: 50px;
+}
+
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 10%;
+  margin: 100px auto 100px auto;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.propic {
+  margin-top: 20px;
+  height: 300px;
+  width: 300px;
+  border-radius: 50%;
+}
+
+.main-icons {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+}
+
+
+.top_container {
+  background-color: #f1f9f9;
+  position: relative;
+  padding-top: 100px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 0.5;
+}
+
+.edu-table {
+  margin: auto;
+  line-height: 1.5;
+}
+.botcloud{
+  position:absolute;
+
+}
+.topcloud{
+  position:absolute;
+  right: 450px;
+  top: 50px;
+}
+.mid_container{
+
+}
+
+.bot_container {
+
+}
+
+.dude {
+  text-decoration: underline;
+}
+
+.btn {
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #FFFFFF;
+  font-family: 'Quicksand';
+  font-size: 120%;
+  font-weight: 100;
+  padding: 10px;
+  background-color: #ABABAB;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.btn:hover {
+  background: #6A6A6A;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
